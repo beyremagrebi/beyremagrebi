@@ -1,173 +1,247 @@
-# Hi, I'm Beyrem Agrebi 👋
+<div align="center">
 
-## Full-Stack Mobile Developer | Flutter Specialist | Real-Time Systems Builder
+# 👋 Hi, I'm Beyrem Agrebi
 
-I am a passionate full-stack developer focused on building scalable, real-time, and production-ready applications.
-My main expertise is in **Flutter mobile development**, backed by strong experience in backend systems, WebSocket communication, SFU video infrastructure, clean architecture, and modern API development.
+### Full-Stack Mobile Developer · Flutter Specialist · Real-Time Systems Engineer
 
-I enjoy building complete products from idea to deployment, with a strong focus on clean code, structured architecture, performance, and user experience.
+I build **mobile-first**, **real-time**, and **scalable applications** using Flutter, modern backend technologies, WebSocket systems, and WebRTC infrastructure.
 
----
+I enjoy turning complex ideas into clean, production-ready products with strong architecture, smooth user experience, and reliable backend systems.
 
-## 🚀 About Me
+<br />
 
-* Full-Stack Mobile Developer specialized in **Flutter**
-* Strong experience building **real-time applications**
-* Experienced with **WebSocket**, **Socket.IO**, and **mediasoup SFU**
-* Built Slack-like collaboration platforms with teams, channels, members, permissions, and real-time meetings
-* Comfortable working on both frontend and backend systems
-* Focused on clean architecture, SOLID principles, and scalable codebases
-* Team Lead experience with mentoring, GitFlow, code reviews, and production delivery
+[![Email](https://img.shields.io/badge/Email-beyremagrebi58%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:beyremagrebi58@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Beyrem%20Agrebi-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/beyrem-agrebi)
+[![GitHub](https://img.shields.io/badge/GitHub-beyremagrebi-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/beyremagrebi)
+
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## 🧩 Developer Profile
 
-### Mobile Development
+```txt
+Role        Full-Stack Mobile Developer
+Focus       Flutter · Backend APIs · Real-Time Systems · WebRTC SFU
+Strength    Building complete products from frontend to backend
+Mindset     Clean architecture, scalable systems, and professional UI/UX
+```
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
+I specialize in building applications that combine:
 
-### Frontend Development
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vuedotjs\&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-
-### Backend Development
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge\&logo=bun\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-
-### Python Backend & Tooling
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge\&logo=poetry\&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge\&logo=gunicorn\&logoColor=white)
-
-### Real-Time & Video Infrastructure
-
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge\&logo=socketdotio\&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge\&logo=socketdotio\&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge\&logo=webrtc\&logoColor=white)
-![mediasoup](https://img.shields.io/badge/mediasoup-SFU-5B21B6?style=for-the-badge)
-
-### Databases & Cloud
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-
-### DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge\&logo=gitlab\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)
+* modern mobile interfaces
+* scalable backend services
+* real-time communication
+* secure authentication
+* clean architecture
+* production-ready deployment
 
 ---
 
-## 🧠 Architecture & Engineering Principles
+## ⚡ What I Build
 
-I care about building software that is scalable, maintainable, and easy to extend.
-
-* Clean Architecture
-* MVVM Pattern
-* SOLID Principles
-* RESTful APIs
-* GraphQL
-* WebSocket Architecture
-* Real-Time Systems
-* SFU Video Architecture
-* Microservices
-* Authentication & Authorization
-* Role-Based Access Control
-* GitFlow
-* Code Reviews
-* CI/CD Pipelines
-* Error Handling & Validation
-* Responsive UI/UX
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📱 Mobile Applications</h3>
+      <p>Cross-platform apps with Flutter, clean architecture, MVVM, Firebase, API integration, and polished user experience.</p>
+    </td>
+    <td width="50%">
+      <h3>🧠 Backend Systems</h3>
+      <p>REST APIs, authentication, validation, business logic, database modeling, and modular backend architecture.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>💬 Real-Time Platforms</h3>
+      <p>Chat systems, team collaboration, WebSocket communication, Socket.IO, live events, and real-time state updates.</p>
+    </td>
+    <td width="50%">
+      <h3>🎥 Video Infrastructure</h3>
+      <p>WebRTC and mediasoup SFU architecture with workers, routers, rooms, peers, producers, consumers, and signaling.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🌟 Featured Projects
+## 🛠 Technical Skills
 
-### 💬 Combo App — Slack-Like Collaboration Platform
+### 📱 Mobile Development
 
-A modern team collaboration platform inspired by Slack, built with real-time communication, teams, channels, permissions, members management, and video meeting infrastructure.
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+</p>
 
-**Tech Stack:** React, Flask, Python, Poetry, MongoDB, Bun, TypeScript, WebSocket, mediasoup, WebRTC
+---
 
-**Key Features:**
+### 🎨 Frontend Development
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+---
+
+### 🧠 Backend Development
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
+
+---
+
+### ⚡ Real-Time & Video Systems
+
+<p>
+  <img src="https://img.shields.io/badge/WebSocket-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
+  <img src="https://img.shields.io/badge/mediasoup-SFU-5B21B6?style=for-the-badge" />
+</p>
+
+---
+
+### 🗄 Databases & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+</p>
+
+---
+
+## 🏗 Architecture & Engineering Mindset
+
+```txt
+Clean Architecture     Build maintainable and scalable codebases
+MVVM                   Separate UI, logic, and data layers
+SOLID                  Write flexible and extensible software
+REST APIs              Design structured and reliable API systems
+WebSocket              Build real-time communication flows
+WebRTC SFU             Route audio/video streams at scale
+Microservices          Split responsibilities clearly
+RBAC                   Secure apps with roles and permissions
+CI/CD                  Automate build, test, and deployment
+```
+
+---
+
+# 🚀 Featured Work
+
+## 💬 Combo App — Slack-Like Collaboration Platform
+
+A modern team collaboration platform inspired by Slack, built with teams, channels, members, permissions, real-time meetings, and a custom SFU video infrastructure.
+
+### Tech Stack
+
+```txt
+Frontend      React · Vite · TailwindCSS
+Backend       Python · Flask · Poetry · MongoDB
+Real-Time     WebSocket · WebRTC · mediasoup
+SFU Server    Bun · TypeScript · mediasoup
+Deployment    Render · Gunicorn
+```
+
+### Main Features
 
 * Team workspace management
 * Public and private channels
-* Channel members management
+* Add members to private channels
+* Member search and selection
 * Invite members by email
 * Role and permission system
-* Kick single or multiple members
-* Join requests management
-* Responsive workspace interface
-* Real-time meeting system
-* Audio and video call buttons per channel
+* Kick one or multiple members
+* Join request management
+* Responsive workspace UI
+* Audio and video calls per channel
 * Minimized meeting window
 * Meeting restore system
 * Active meeting persistence
-* mediasoup SFU server
-* WebSocket signaling
-* Worker and router setup
-* Peer and room management
-* Producer and consumer handling
-* Remote participant display with user information
-* Flask backend using Poetry
-* MongoDB database integration
+* Real-time participant display
+* User metadata in video meetings
+* Flask backend with Poetry
+* MongoDB data modeling
 * Render deployment preparation
 
 ---
 
-### 🎥 mediasoup SFU Server
+## 🎥 mediasoup SFU Server
 
-A custom mediasoup-based SFU server built for real-time audio/video communication.
+A custom SFU server built for scalable real-time audio and video communication.
 
-**Tech Stack:** Bun, TypeScript, mediasoup, WebSocket, WebRTC
+### Tech Stack
 
-**Key Features:**
+```txt
+Runtime       Bun
+Language      TypeScript
+Media Server  mediasoup
+Protocol      WebRTC
+Signaling     WebSocket
+```
 
-* mediasoup worker initialization
-* Router creation and configuration
+### Main Features
+
+* Worker initialization
+* Router creation
 * Room management
 * Peer management
-* WebSocket signaling
 * WebRTC transport creation
-* Producer and consumer handling
+* Producer handling
+* Consumer handling
 * Existing peers synchronization
+* Peer joined events
+* Peer left events
 * New producer notifications
-* Peer joined and peer left events
-* Participant metadata exchange
 * Audio/video stream routing
-* Scalable real-time meeting foundation
+* Participant metadata exchange
+* Scalable SFU meeting foundation
 
 ---
 
-### 🎓 Educational App — Full-Stack Learning Platform
+## 🎓 Educational App — Full-Stack Learning Platform
 
 [GitHub Repository](https://github.com/beyremagrebi/udemy-app-mobile)
 
-A complete learning platform built with Flutter and backend services.
+A complete educational platform built with Flutter and backend services.
 
-**Tech Stack:** Flutter, Node.js, Express.js, Go, Socket.IO
+### Tech Stack
 
-**Key Features:**
+```txt
+Mobile     Flutter · Dart
+Backend    Node.js · Express.js · Go
+Real-Time  Socket.IO
+```
+
+### Main Features
 
 * Course content management
 * Video, PDF, Word, and Excel support
@@ -176,71 +250,80 @@ A complete learning platform built with Flutter and backend services.
 * Auto-update system
 * Integrated video player
 * 45+ customizable themes
-* Mobile-first user experience
-* Backend API integration
+* Mobile-first experience
 
 ---
 
-### 📄 CVTech Platform — Social Network & CV Builder
+## 📄 CVTech Platform — Social Network & CV Builder
 
 [GitHub Repository](https://github.com/beyremagrebi/redit-clone)
 
-A social and professional networking platform with automatic CV generation.
+A social and professional platform with profiles, real-time feed, and automatic CV generation.
 
-**Key Features:**
+### Main Features
 
 * Professional user profiles
-* Real-time feed
 * LinkedIn-like profile system
+* Real-time feed
 * CV generation for French and Canadian markets
 * Social interaction features
 * Career-oriented user experience
 
 ---
 
-### 🖥 Bun Backend API
+## 🖥 Bun Backend API
 
 [GitHub Repository](https://github.com/beyremagrebi/bun-server)
 
-A structured backend application built with Bun, TypeScript, and MongoDB.
+A structured backend API built with Bun, TypeScript, and MongoDB.
 
-**Key Features:**
+### Main Features
 
 * Secure authentication
 * SendGrid email integration
 * CRUD APIs
 * Validation and error handling
-* Clean REST API structure
-* MongoDB integration
+* Clean REST structure
 * Modular backend architecture
 
 ---
 
-### 🛍 Swap Shop — E-Commerce Platform
+## 🛍 Swap Shop — E-Commerce Platform
 
-Team project for an online shopping platform.
+A team project for an online shopping platform.
 
-**Tech Stack:** Angular, Node.js, Spring Boot, Kotlin
+### Tech Stack
 
-**Key Features:**
+```txt
+Frontend   Angular
+Backend    Node.js · Spring Boot
+Mobile     Kotlin
+```
+
+### Main Features
 
 * Product browsing
 * Cart and favorites
 * Admin management
 * E-commerce workflow
-* Multi-stack project collaboration
+* Multi-stack collaboration
 
 ---
 
-### 🎓 Scholarship Management System
+## 🎓 Scholarship Management System
 
 [GitHub Repository](https://github.com/beyremagrebi/SpringbootProject.git)
 
 A web application for managing scholarship applications.
 
-**Tech Stack:** Spring Boot, JSP
+### Tech Stack
 
-**Key Features:**
+```txt
+Backend  Spring Boot
+View     JSP
+```
+
+### Main Features
 
 * Submit scholarship applications
 * Track application status
@@ -249,77 +332,97 @@ A web application for managing scholarship applications.
 
 ---
 
-## 💼 Professional Experience
+# 💼 Experience
 
-### Team Lead Mobile — Proservices Training
+## Team Lead Mobile — Proservices Training
 
 **06/2024 – Present | Ariana, Tunisia**
 
-* Leading a team of 4 interns and coordinating with backend and UI teams
-* Delivered 2 production-ready Flutter applications
+* Leading 4 interns and coordinating with backend and UI teams
+* Delivered production-ready Flutter applications
 * Integrated mobile apps with Node.js and Go backend services
-* Implemented GitFlow, code reviews, testing practices, and clean architecture
-* Mentored junior developers and improved team development workflow
-* Worked on real-time communication features and scalable backend integration
+* Implemented GitFlow, code reviews, and best practices
+* Mentored junior developers
+* Worked on real-time communication features
+* Improved development workflow and team collaboration
 
 ---
 
-### Full-Stack Developer Intern — Proservices Training
+## Full-Stack Developer Intern — Proservices Training
 
 **01/2024 – 05/2024 | Ariana, Tunisia**
 
-* Built a cross-platform Flutter application with a Node.js backend
-* Integrated real-time communication using Socket.IO
-* Applied MVVM architecture and optimized mobile performance
+* Built a cross-platform Flutter application
+* Integrated Node.js backend services
+* Developed real-time features with Socket.IO
+* Applied MVVM architecture
+* Optimized mobile performance
 * Integrated Firebase services
-* Worked in an Agile environment with sprints, daily meetings, and code reviews
+* Worked with Agile workflow, sprints, and code reviews
 
 ---
 
-### Web Developer Intern — Elitinfo
+## Web Developer Intern — Elitinfo
 
 **07/2022 – 09/2022 | Urbain Nord, Tunisia**
 
 * Developed a complete web application using Vue.js and Laravel
-* Worked on UI implementation and backend API development
-* Participated in feature development and application testing
+* Worked on UI implementation
+* Built and integrated backend APIs
+* Participated in testing and feature development
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
-* **Engineering Cycle in Computer Science**
-  Université SESAME | 2024 – Present
+## Engineering Cycle in Computer Science
 
-* **Bachelor’s Degree in Information Systems Development**
-  ISET Bizerte | 2021 – 2024
+**Université SESAME | 2024 – Present**
 
----
+## Bachelor’s Degree in Information Systems Development
 
-## 🌐 Languages
-
-* Arabic: Native
-* French: Intermediate
-* English: Intermediate
+**ISET Bizerte | 2021 – 2024**
 
 ---
 
-## 📊 GitHub Stats
+# 🌐 Languages
 
-![Beyrem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=beyremagrebi\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beyremagrebi\&layout=compact\&theme=tokyonight)
-
----
-
-## 📫 Contact Me
-
-* Email: **[beyremagrebi58@gmail.com](mailto:beyremagrebi58@gmail.com)**
-* LinkedIn: [linkedin.com/in/beyrem-agrebi](https://linkedin.com/in/beyrem-agrebi)
-* GitHub: [github.com/beyremagrebi](https://github.com/beyremagrebi)
+| Language | Level        |
+| -------- | ------------ |
+| Arabic   | Native       |
+| French   | Intermediate |
+| English  | Intermediate |
 
 ---
 
-## 💡 Motto
+# 📊 GitHub Activity
 
-> Code with passion. Lead with purpose. Deliver with impact.
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=beyremagrebi&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyremagrebi&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📫 Contact
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-beyremagrebi58%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:beyremagrebi58@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Beyrem%20Agrebi-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/beyrem-agrebi)
+
+[![GitHub](https://img.shields.io/badge/GitHub-beyremagrebi-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/beyremagrebi)
+
+</div>
+
+---
+
+<div align="center">
+
+## Code with passion. Build with structure. Deliver with impact.
+
+</div>

@@ -1,12 +1,18 @@
 <div align="center">
 
-# 👋 Hi, I'm Beyrem Agrebi
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Beyrem+Agrebi+%F0%9F%91%8B;Full-Stack+Mobile+Developer;Flutter+Specialist;Real-Time+Systems+Builder;WebRTC+%26+mediasoup+SFU+Developer" alt="Typing SVG" />
+
+<br />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=beyremagrebi&style=for-the-badge&color=0ea5e9" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Focus-Flutter%20%7C%20Backend%20%7C%20Real--Time-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Building%20Scalable%20Apps-16a34a?style=for-the-badge" />
+</p>
 
 ### Full-Stack Mobile Developer · Flutter Specialist · Real-Time Systems Builder
 
 I build **mobile-first**, **real-time**, and **scalable applications** using Flutter, modern backend technologies, WebSocket systems, WebRTC, and SFU video infrastructure.
-
-I enjoy turning complex ideas into clean, production-ready products with strong architecture, smooth user experience, and reliable backend systems.
 
 <br />
 
@@ -18,7 +24,24 @@ I enjoy turning complex ideas into clean, production-ready products with strong 
 
 ---
 
-# 🧩 Developer Profile
+## 🧩 Who I Am
+
+<table>
+  <tr>
+    <td width="33%">
+      <h3 align="center">📱 Mobile</h3>
+      <p align="center">Flutter apps with clean architecture, MVVM, Firebase, APIs, and smooth UX.</p>
+    </td>
+    <td width="33%">
+      <h3 align="center">🧠 Backend</h3>
+      <p align="center">Python, Flask, Node.js, Bun, Spring Boot, Laravel, REST APIs, auth, and databases.</p>
+    </td>
+    <td width="33%">
+      <h3 align="center">⚡ Real-Time</h3>
+      <p align="center">WebSocket, Socket.IO, WebRTC, mediasoup SFU, rooms, peers, producers, consumers.</p>
+    </td>
+  </tr>
+</table>
 
 ```txt
 Role        Full-Stack Mobile Developer
@@ -27,47 +50,21 @@ Strength    Building complete products from frontend to backend
 Mindset     Clean architecture, scalable systems, and professional UI/UX
 ```
 
-I specialize in building applications that combine:
+---
 
-* Modern mobile interfaces
-* Scalable backend services
-* Real-time communication
-* Secure authentication
-* Clean architecture
-* Production-ready deployment
+## 🚀 What I Build
+
+* Cross-platform mobile applications with **Flutter**
+* Scalable backend APIs with **Python Flask**, **Node.js**, **Bun**, **Spring Boot**, and **Laravel**
+* Real-time chat and collaboration systems
+* WebSocket and Socket.IO communication flows
+* Audio/video meetings using **WebRTC + mediasoup SFU**
+* Slack-like collaboration platforms with teams, channels, roles, and permissions
+* Clean dashboards, responsive interfaces, and production-ready workflows
 
 ---
 
-# ⚡ What I Build
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>📱 Mobile Applications</h3>
-      <p>Cross-platform apps with Flutter, clean architecture, MVVM, Firebase, API integration, and polished user experience.</p>
-    </td>
-    <td width="50%">
-      <h3>🧠 Backend Systems</h3>
-      <p>REST APIs, authentication, validation, business logic, database modeling, and modular backend architecture.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>💬 Real-Time Platforms</h3>
-      <p>Chat systems, team collaboration, WebSocket communication, Socket.IO, live events, and real-time state updates.</p>
-    </td>
-    <td width="50%">
-      <h3>🎥 Video Infrastructure</h3>
-      <p>WebRTC and mediasoup SFU architecture with workers, routers, rooms, peers, producers, consumers, and signaling.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-# 📊 Skills & Technical Focus
-
-## 🧠 Technical Focus
+## 📊 Technical Focus
 
 ```mermaid
 pie showData
@@ -81,63 +78,9 @@ pie showData
 
 ---
 
-## ⚙️ Backend & Real-Time Expertise
+## 🛠 Tech Stack
 
-```mermaid
-mindmap
-  root((Backend & Real-Time))
-    Python
-      Flask
-      Poetry
-      Gunicorn
-    Node.js
-      Express.js
-      Socket.IO
-    Bun
-      TypeScript
-      WebSocket
-    WebRTC
-      mediasoup
-      SFU Server
-      Producers
-      Consumers
-      Rooms
-      Peers
-    Databases
-      MongoDB
-      MySQL
-      Firebase
-```
-
----
-
-## 🏗 Architecture Knowledge
-
-```mermaid
-graph TD
-    A[Clean Architecture] --> B[Separation of Concerns]
-    A --> C[Maintainable Code]
-    A --> D[Testable Features]
-
-    E[SOLID Principles] --> F[SRP]
-    E --> G[OCP]
-    E --> H[DIP]
-
-    I[Real-Time Architecture] --> J[WebSocket Signaling]
-    I --> K[WebRTC Media Flow]
-    I --> L[mediasoup SFU]
-
-    M[Backend Architecture] --> N[REST APIs]
-    M --> O[Authentication]
-    M --> P[Role-Based Permissions]
-    M --> Q[Validation & Error Handling]
-```
-
----
-
-# 🛠 Technical Skills
-
-## 📱 Mobile Development
+### 📱 Mobile Development
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -145,9 +88,7 @@ graph TD
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 
----
-
-## 🎨 Frontend Development
+### 🎨 Frontend Development
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -157,9 +98,7 @@ graph TD
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
----
-
-## 🧠 Backend Development
+### 🧠 Backend Development
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -178,9 +117,7 @@ graph TD
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
 
----
-
-## ⚡ Real-Time & Video Systems
+### ⚡ Real-Time & Video Systems
 
 <p>
   <img src="https://img.shields.io/badge/WebSocket-111827?style=for-the-badge" />
@@ -189,9 +126,7 @@ graph TD
   <img src="https://img.shields.io/badge/mediasoup-SFU-5B21B6?style=for-the-badge" />
 </p>
 
----
-
-## 🗄 Databases & Infrastructure
+### 🗄 Databases & Infrastructure
 
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -209,29 +144,67 @@ graph TD
 
 ---
 
-# 🏗 Architecture & Engineering Mindset
+## 🧠 Backend & Real-Time Expertise
 
-```txt
-Clean Architecture     Build maintainable and scalable codebases
-MVVM                   Separate UI, logic, and data layers
-SOLID                  Write flexible and extensible software
-REST APIs              Design structured and reliable API systems
-WebSocket              Build real-time communication flows
-WebRTC SFU             Route audio/video streams at scale
-Microservices          Split responsibilities clearly
-RBAC                   Secure apps with roles and permissions
-CI/CD                  Automate build, test, and deployment
+```mermaid
+mindmap
+  root((Backend & Real-Time))
+    Python
+      Flask
+      Poetry
+      Gunicorn
+    Node.js
+      Express.js
+      Socket.IO
+    Bun
+      TypeScript
+      WebSocket
+    WebRTC
+      mediasoup
+      SFU Server
+      Workers
+      Routers
+      Rooms
+      Peers
+      Producers
+      Consumers
+    Databases
+      MongoDB
+      MySQL
+      Firebase
 ```
 
 ---
 
-# 🚀 Featured Work
+## 🏗 Architecture & Engineering Principles
+
+```mermaid
+graph TD
+    A[Clean Architecture] --> B[Separation of Concerns]
+    A --> C[Maintainable Code]
+    A --> D[Scalable Features]
+
+    E[SOLID Principles] --> F[SRP]
+    E --> G[OCP]
+    E --> H[DIP]
+
+    I[Real-Time Architecture] --> J[WebSocket Signaling]
+    I --> K[WebRTC Media Flow]
+    I --> L[mediasoup SFU]
+
+    M[Backend Architecture] --> N[REST APIs]
+    M --> O[Authentication]
+    M --> P[Role-Based Permissions]
+    M --> Q[Validation & Error Handling]
+```
+
+---
+
+# 🚀 Featured Projects
 
 ## 💬 Combo App — Slack-Like Collaboration Platform
 
 A modern team collaboration platform inspired by Slack, built with teams, channels, members, permissions, real-time meetings, and a custom SFU video infrastructure.
-
-### Tech Stack
 
 ```txt
 Frontend      React · Vite · TailwindCSS
@@ -267,8 +240,6 @@ Deployment    Render · Gunicorn
 ## 🎥 mediasoup SFU Server
 
 A custom SFU server built for scalable real-time audio and video communication.
-
-### Tech Stack
 
 ```txt
 Runtime       Bun
@@ -326,10 +297,6 @@ graph LR
 
 [GitHub Repository](https://github.com/beyremagrebi/udemy-app-mobile)
 
-A complete educational platform built with Flutter and backend services.
-
-### Tech Stack
-
 ```txt
 Mobile     Flutter · Dart
 Backend    Node.js · Express.js · Go
@@ -353,8 +320,6 @@ Real-Time  Socket.IO
 
 [GitHub Repository](https://github.com/beyremagrebi/redit-clone)
 
-A social and professional platform with profiles, real-time feed, and automatic CV generation.
-
 ### Main Features
 
 * Professional user profiles
@@ -370,8 +335,6 @@ A social and professional platform with profiles, real-time feed, and automatic 
 
 [GitHub Repository](https://github.com/beyremagrebi/bun-server)
 
-A structured backend API built with Bun, TypeScript, and MongoDB.
-
 ### Main Features
 
 * Secure authentication
@@ -384,10 +347,6 @@ A structured backend API built with Bun, TypeScript, and MongoDB.
 ---
 
 ## 🛍 Swap Shop — E-Commerce Platform
-
-A team project for an online shopping platform.
-
-### Tech Stack
 
 ```txt
 Frontend   Angular
@@ -408,10 +367,6 @@ Mobile     Kotlin
 ## 🎓 Scholarship Management System
 
 [GitHub Repository](https://github.com/beyremagrebi/SpringbootProject.git)
-
-A web application for managing scholarship applications.
-
-### Tech Stack
 
 ```txt
 Backend  Spring Boot

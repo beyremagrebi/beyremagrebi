@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Beyrem Agrebi
 
-### Full-Stack Mobile Developer · Flutter Specialist · Real-Time Systems Engineer
+### Full-Stack Mobile Developer · Flutter Specialist · Real-Time Systems Builder
 
-I build **mobile-first**, **real-time**, and **scalable applications** using Flutter, modern backend technologies, WebSocket systems, and WebRTC infrastructure.
+I build **mobile-first**, **real-time**, and **scalable applications** using Flutter, modern backend technologies, WebSocket systems, WebRTC, and SFU video infrastructure.
 
 I enjoy turning complex ideas into clean, production-ready products with strong architecture, smooth user experience, and reliable backend systems.
 
@@ -18,7 +18,7 @@ I enjoy turning complex ideas into clean, production-ready products with strong 
 
 ---
 
-## 🧩 Developer Profile
+# 🧩 Developer Profile
 
 ```txt
 Role        Full-Stack Mobile Developer
@@ -29,16 +29,16 @@ Mindset     Clean architecture, scalable systems, and professional UI/UX
 
 I specialize in building applications that combine:
 
-* modern mobile interfaces
-* scalable backend services
-* real-time communication
-* secure authentication
-* clean architecture
-* production-ready deployment
+* Modern mobile interfaces
+* Scalable backend services
+* Real-time communication
+* Secure authentication
+* Clean architecture
+* Production-ready deployment
 
 ---
 
-## ⚡ What I Build
+# ⚡ What I Build
 
 <table>
   <tr>
@@ -65,9 +65,79 @@ I specialize in building applications that combine:
 
 ---
 
-## 🛠 Technical Skills
+# 📊 Skills & Technical Focus
 
-### 📱 Mobile Development
+## 🧠 Technical Focus
+
+```mermaid
+pie showData
+    title Technical Focus
+    "Flutter / Mobile Development" : 30
+    "Backend Development" : 25
+    "Real-Time Systems" : 20
+    "Frontend Development" : 15
+    "DevOps & Deployment" : 10
+```
+
+---
+
+## ⚙️ Backend & Real-Time Expertise
+
+```mermaid
+mindmap
+  root((Backend & Real-Time))
+    Python
+      Flask
+      Poetry
+      Gunicorn
+    Node.js
+      Express.js
+      Socket.IO
+    Bun
+      TypeScript
+      WebSocket
+    WebRTC
+      mediasoup
+      SFU Server
+      Producers
+      Consumers
+      Rooms
+      Peers
+    Databases
+      MongoDB
+      MySQL
+      Firebase
+```
+
+---
+
+## 🏗 Architecture Knowledge
+
+```mermaid
+graph TD
+    A[Clean Architecture] --> B[Separation of Concerns]
+    A --> C[Maintainable Code]
+    A --> D[Testable Features]
+
+    E[SOLID Principles] --> F[SRP]
+    E --> G[OCP]
+    E --> H[DIP]
+
+    I[Real-Time Architecture] --> J[WebSocket Signaling]
+    I --> K[WebRTC Media Flow]
+    I --> L[mediasoup SFU]
+
+    M[Backend Architecture] --> N[REST APIs]
+    M --> O[Authentication]
+    M --> P[Role-Based Permissions]
+    M --> Q[Validation & Error Handling]
+```
+
+---
+
+# 🛠 Technical Skills
+
+## 📱 Mobile Development
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -77,7 +147,7 @@ I specialize in building applications that combine:
 
 ---
 
-### 🎨 Frontend Development
+## 🎨 Frontend Development
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -89,7 +159,7 @@ I specialize in building applications that combine:
 
 ---
 
-### 🧠 Backend Development
+## 🧠 Backend Development
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -110,7 +180,7 @@ I specialize in building applications that combine:
 
 ---
 
-### ⚡ Real-Time & Video Systems
+## ⚡ Real-Time & Video Systems
 
 <p>
   <img src="https://img.shields.io/badge/WebSocket-111827?style=for-the-badge" />
@@ -121,7 +191,7 @@ I specialize in building applications that combine:
 
 ---
 
-### 🗄 Databases & Infrastructure
+## 🗄 Databases & Infrastructure
 
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -139,7 +209,7 @@ I specialize in building applications that combine:
 
 ---
 
-## 🏗 Architecture & Engineering Mindset
+# 🏗 Architecture & Engineering Mindset
 
 ```txt
 Clean Architecture     Build maintainable and scalable codebases
@@ -224,6 +294,31 @@ Signaling     WebSocket
 * Audio/video stream routing
 * Participant metadata exchange
 * Scalable SFU meeting foundation
+
+---
+
+## 🧭 Combo App Architecture
+
+```mermaid
+graph LR
+    A[React Frontend] --> B[Flask API]
+    B --> C[MongoDB]
+
+    A --> D[WebSocket Signaling]
+    D --> E[mediasoup SFU Server]
+
+    E --> F[Worker]
+    F --> G[Router]
+    G --> H[Room]
+    H --> I[Peers]
+    I --> J[Producers]
+    I --> K[Consumers]
+
+    A --> L[Real-Time Meeting UI]
+    L --> M[Audio Call]
+    L --> N[Video Call]
+    L --> O[Minimized Meeting]
+```
 
 ---
 
@@ -332,6 +427,21 @@ View     JSP
 
 ---
 
+# 🔁 Development Workflow
+
+```mermaid
+flowchart LR
+    A[Idea] --> B[UI/UX Planning]
+    B --> C[Frontend Development]
+    C --> D[Backend API]
+    D --> E[Real-Time Integration]
+    E --> F[Testing]
+    F --> G[Deployment]
+    G --> H[Production Improvements]
+```
+
+---
+
 # 💼 Experience
 
 ## Team Lead Mobile — Proservices Training
@@ -402,6 +512,32 @@ View     JSP
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=beyremagrebi&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyremagrebi&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=beyremagrebi&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beyremagrebi&theme=tokyonight" />
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=beyremagrebi&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
